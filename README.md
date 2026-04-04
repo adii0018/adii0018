@@ -34,11 +34,33 @@ class Aditya:
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently building **[Alice AI](https://alice-exam-proctor01.vercel.app)** — an AI-powered exam proctoring platform
-- 🌱 Diving deep into **LLMs, Deep Learning & Machine Learning**
-- ☁️ Looking to collaborate on **Google Cloud** projects
-- 🤖 Exploring the intersection of **Computer Vision & NLP**
-- 📫 Reach me at **singhrajputaditya982@gmail.com**
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><strong>Building</strong></td>
+    <td><a href="https://alice-exam-proctor01.vercel.app"><strong>Alice AI</strong></a> — Real-time AI exam proctoring platform with face detection & gaze tracking</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><strong>Learning</strong></td>
+    <td>Large Language Models &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Machine Learning</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td><strong>Collaborating</strong></td>
+    <td>Open to Google Cloud Skills projects &amp; AI/ML collaborations</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><strong>Exploring</strong></td>
+    <td>Computer Vision &nbsp;+&nbsp; NLP &nbsp;→&nbsp; Where they intersect 🔬</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td><strong>Contact</strong></td>
+    <td><a href="mailto:singhrajputaditya982@gmail.com">singhrajputaditya982@gmail.com</a></td>
+  </tr>
+</table>
 
 ---
 
@@ -106,11 +128,15 @@ class Aditya:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adii0018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adii0018/adii0018/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adii0018/adii0018/output/github-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/adii0018/adii0018/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
