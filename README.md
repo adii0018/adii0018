@@ -1,5 +1,5 @@
 <div align="center">
-
+    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Singh%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%7C%20ML%20%7C%20AI%20Developer%20from%20India%20🇮🇳&descAlignY=55&descSize=18"/>
 
 </div>
