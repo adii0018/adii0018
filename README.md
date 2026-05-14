@@ -70,11 +70,21 @@ class Aditya:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>
   &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" title="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" title="Pandas"/>
+  &nbsp;
+  <img src="https://www.pygame.org/docs/pygame_tiny.gif" height="45" alt="Pygame" title="Pygame"/>
+  <img src="https://img.shields.io/badge/Pygame-00979D?style=flat&logo=python&logoColor=white" height="45" alt="Pygame" title="Pygame"/>
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" height="45" alt="Seaborn" title="Seaborn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="Matplotlib" title="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow" title="TensorFlow"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch" title="PyTorch"/>
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="Scikit-Learn" title="Scikit-Learn"/>
+  &nbsp;
+  
 </div>
 
 ### 🌐 Web & Backend
