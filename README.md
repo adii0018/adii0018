@@ -124,9 +124,8 @@ class Aditya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adii0018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adii0018&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff&langs_count=8" height="165"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
 
 </div>
 
@@ -134,33 +133,44 @@ class Aditya:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adii0018&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" width="70%"/>
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adii0018/adii0018/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adii0018/adii0018/output/github-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/adii0018/adii0018/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 🌟 Featured Project
 
+
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
 
 [![Alice Exam Proctor](https://github-readme-stats.vercel.app/api/pin/?username=adii0018&repo=alice-exam-proctor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=22c55e)](https://github.com/adii0018/alice-exam-proctor)
 
+</td>
+    <td align="center" width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="280"/>
+
+</td>
+  </tr>
+</table>
+
 </div>
 
-> 🍃 **Alice** — AI-powered real-time exam proctoring with face detection, gaze tracking & live teacher dashboard. Built with React + Django + Gemini AI.
+<div align="center">
+
+### 🍃 Alice — AI Exam Proctoring Platform
+
+| Feature | Tech Used |
+|--------|-----------|
+| 👁️ Face Detection & Gaze Tracking | Computer Vision |
+| 🎓 Live Teacher Dashboard | React + WebSocket |
+| 🤖 AI Proctoring Engine | Gemini AI |
+| 🌐 Backend API | Django REST |
+| 🚀 Deployed On | Vercel |
+
+[![Live Demo](https://img.shields.io/badge/🍃_Live_Demo-alice--exam--proctor-22c55e?style=for-the-badge)](https://alice-exam-proctor01.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/adii0018/alice-exam-proctor)
+
+</div>
 
 ---
 
