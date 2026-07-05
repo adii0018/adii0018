@@ -31,39 +31,7 @@ class Aditya:
         print("Thanks for visiting! Let's build something amazing 🚀")
 ```
 
----
 
-## 🚀 What I'm Up To
-
-<table>
-  <tr>
-    <td>🔭</td>
-    <td><strong>Building</strong></td>
-    <td><a href="https://alice-exam-proctor01.vercel.app"><strong>Alice AI</strong></a> — Real-time AI exam proctoring platform with face detection & gaze tracking</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><strong>Learning</strong></td>
-    <td>Large Language Models &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Machine Learning</td>
-  </tr>
-  <tr>
-    <td>☁️</td>
-    <td><strong>Collaborating</strong></td>
-    <td>Open to Google Cloud Skills projects &amp; AI/ML collaborations</td>
-  </tr>
-  <tr>
-    <td>🤖</td>
-    <td><strong>Exploring</strong></td>
-    <td>Computer Vision &nbsp;+&nbsp; NLP &nbsp;→&nbsp; Where they intersect 🔬</td>
-  </tr>
-  <tr>
-    <td>📫</td>
-    <td><strong>Contact</strong></td>
-    <td><a href="mailto:singhrajputaditya982@gmail.com">singhrajputaditya982@gmail.com</a></td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -129,50 +97,6 @@ class Aditya:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
 
 </div>
-
-## 🌟 Featured Project
-
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-
-[![Alice Exam Proctor](https://github-readme-stats.vercel.app/api/pin/?username=adii0018&repo=alice-exam-proctor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=22c55e)](https://github.com/adii0018/alice-exam-proctor)
-
-</td>
-    <td align="center" width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="280"/>
-
-</td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### 🍃 Alice — AI Exam Proctoring Platform
-
-| Feature | Tech Used |
-|--------|-----------|
-| 👁️ Face Detection & Gaze Tracking | Computer Vision |
-| 🎓 Live Teacher Dashboard | React + WebSocket |
-| 🤖 AI Proctoring Engine | Gemini AI |
-| 🌐 Backend API | Django REST |
-| 🚀 Deployed On | Vercel |
-
-[![Live Demo](https://img.shields.io/badge/🍃_Live_Demo-alice--exam--proctor-22c55e?style=for-the-badge)](https://alice-exam-proctor01.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/adii0018/alice-exam-proctor)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adii0018&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true"/>
@@ -194,11 +118,7 @@ class Aditya:
 
 ---
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300"/>
-
-<br/>
 
 <img src="https://count.getloli.com/@:adii0018?theme=ai-1&padding=7&scale=1&align=bottom&pixelated=1&darkmode=1"/>
 
