@@ -15,80 +15,16 @@
 
 ## 🌿 About Me
 
-```python
-class Aditya:
-    name       = "Aditya Singh Rajput"
-    location   = "India 🇮🇳"
-    email      = "singhrajputaditya982@gmail.com"
-    
-    currently  = "Building Alice AI 🍃"
-    learning   = ["LLMs", "Deep Learning", "Machine Learning"]
-    interests  = ["AI/ML", "Full Stack Dev", "Cloud Computing"]
-    
-    looking_for = "Collaborations on Google Cloud Skills"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🚀")
-```
+<div align="center">
+  <img src="./assets/about-me.svg" alt="About Aditya Singh Rajput: Python, ML and AI developer from India, building Alice AI, learning LLMs, Deep Learning and Machine Learning, looking for collaborations on Google Cloud skills" width="100%"/>
+</div>
 
 
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI / ML
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>
-  &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" title="NumPy"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" title="Pandas"/>
-  &nbsp;
-  <img src="https://www.pygame.org/docs/pygame_tiny.gif" height="45" alt="Pygame" title="Pygame"/>
-  <img src="https://img.shields.io/badge/Pygame-00979D?style=flat&logo=python&logoColor=white" height="45" alt="Pygame" title="Pygame"/>
-    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" height="45" alt="Seaborn" title="Seaborn"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="Matplotlib" title="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow" title="TensorFlow"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch" title="PyTorch"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="Scikit-Learn" title="Scikit-Learn"/>
-  &nbsp;
-  
-</div>
-
-### 🌐 Web & Backend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="Django" title="Django"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="Tailwind CSS" title="Tailwind CSS"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" title="MongoDB"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL" title="SQL"/>
-</div>
-
-### ☁️ Cloud & DevOps
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="Google Cloud" title="Google Cloud"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="45" alt="AWS" title="AWS"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure" title="Azure"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux"/>
-</div>
-
-### ⚙️ Other
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" title="C++"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker"/>
+<div align="center">
+  <img src="./assets/tech-stack.svg" alt="Tech stack: Python, NumPy, Pandas, Matplotlib, Seaborn, Pygame, TensorFlow, PyTorch, scikit-learn, JavaScript, Django, React, Tailwind CSS, MongoDB, SQL, Google Cloud, AWS, Azure, Linux, C++, Git, Docker" width="100%"/>
 </div>
 
 ---
